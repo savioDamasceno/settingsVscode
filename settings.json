@@ -1,0 +1,25 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "JetBrains Mono",
+"editor.fontLigatures": true,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 23,
+  "editor.matchBrackets": "near",
+  "editor.find.autoFindInSelection": "always",
+  "editor.fontWeight": 700,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontWeight": 600,
+  "files.autoSave": "onWindowChange",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "Arvischain Theme",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "window.zoomLevel": -1
+}
